@@ -11,4 +11,4 @@ eksctl create cluster --name <cluster-name> --region us-west-1 --nodegroup-name 
         click on secrets and variables
 6. Test application by getting the dns name and going to a web browser
 
-Clean up: Run: eksctl delete cluster --name primuslearning
+Clean up: Run: eksctl delete cluster --name <cluser - name>
